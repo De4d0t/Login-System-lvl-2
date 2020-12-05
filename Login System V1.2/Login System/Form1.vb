@@ -73,8 +73,7 @@ Public Class Form1
             Try
 
                 Dim Telegram_User_ID As String = Regex.Match(Pastebin, ".+?@" & NsTextBoxUsername.Text & "\|(\d+)").Groups(1).Value
-                MsgBox(Telegram_User_ID)
-                ServicePointManager.SecurityProtocol = 3072
+                        ServicePointManager.SecurityProtocol = 3072
 
                 Dim webClient As New WebClient
                 Dim result As String = webClient.DownloadString("https://api.telegram.org/bot" & Bot_Token & "/sendMessage?chat_id=" & Telegram_User_ID & "&text=Code : " & code)
