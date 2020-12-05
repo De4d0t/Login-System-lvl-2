@@ -1,0 +1,11 @@
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\bin\Debug\Login System.exe.config
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\bin\Debug\Login System.exe
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\bin\Debug\Login System.pdb
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\bin\Debug\Login System.xml
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\de4dot_LoginForm_V1._0.Form1.resources
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\de4dot_LoginForm_V1._0.Resources.resources
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\Login System.vbproj.GenerateResource.cache
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\Login System.vbproj.CoreCompileInputs.cache
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\Login System.exe
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\Login System.xml
+C:\Users\Crash\Desktop\System\Login System V1.2\Login System\obj\Debug\Login System.pdb
